@@ -1,0 +1,10 @@
+Grab lists for random tables from the d100 subreddit
+create method for picking random items from each table (d100) roller
+Create method for completed string output of the randomized ideas.
+Create listboxes for each choice + checkbox to include in final randomized (listbox uses the combo box widget, but with the state set to locked)
+create button to randomize 
+create button to quit
+import lists from d100 into program as objects
+create clear/reset button
+for added testing/difficulty, generate a unique identifier key for each generation to apply to a list and prevent duplicates
+
